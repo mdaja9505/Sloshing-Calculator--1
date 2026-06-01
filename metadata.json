@@ -1,0 +1,6 @@
+{
+  "name": "Rectangular Tank Seismic Calculator",
+  "description": "Seismic design base shear and overturning moment calculator for rectangular concrete liquid-containing structures according to ACI 350.3-01 standard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
